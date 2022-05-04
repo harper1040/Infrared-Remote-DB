@@ -1,3 +1,4 @@
 # Infrared-Remote-DB
 A database of any and all remote IR codes I can get my hands on.
 I got interested in archiving remotes for the Flippe Zero device. With that device I am cloning whatever remotes I can find and posting the code here in .ir files. These file come directly from the Flipper and can go directly to the Flipper or I'm sure any other IR project. These codes are not mine I'm just posting them for easy reference and use.
+All of the remotes are sampled the same way in the majority of situations, top to bottom, left to right, volume and channel together regardless of prior format. Inthe case of some smaller LED remotes I may sample sections the WHTGRY I did I sampled numbers on the left and then special keys on the right before moving down and back to left to right format. Order can be rearranged by cutting desired button and pasting wherever it's needed/wanted.
